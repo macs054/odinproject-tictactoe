@@ -18,3 +18,28 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.controls {
+    display: flex;
+    justify-content: center;
+}
+
+.reset {
+    text-align: center;
+}
+
+.text-panel {
+    text-align: center;
+    margin: 1.5em;
+}
+
+header {
+    text-align: center;
+    color: #ce973e;
+    font-weight: bold;
+    font-size: 35px;
+    padding: 40px 0px 40px 0px;
+    border-bottom: 2px solid silver;
+    background-color: white;
+    margin-bottom: 2em;
+}
